@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **samrathyadav1103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wDbvi1z9mDL8M2qTQHskc783WiVG8TV-/view?usp=drive_link](https://drive.google.com/file/d/1wDbvi1z9mDL8M2qTQHskc783WiVG8TV-/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/1wDbvi1z9mDL8M2qTQHskc783WiVG8TV-/view?usp=drive_link](https://drive.google.com/file/d/1wDbvi1z9mDL8M2qTQHskc783WiVG8TV-/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
