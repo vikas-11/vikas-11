@@ -1,33 +1,326 @@
-![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Vikas Yadav</h1>
-<h3 align="center">A passionate Software Developer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- ===================== HEADER ===================== -->
 
-- 🌱 I’m currently learning **Java, ReactJS & REST API**
+<div align="center">
 
-- 👨‍💻 My Website [https://vikas-11.github.io/Portfolio-Website/](https://vikas-11.github.io/Portfolio-Website/)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vikas%20Yadav&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Django%20%7C%20GenAI&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
-- 💬 Ask me about **ReactJS, JAVA, REST API, J2EE, MySQL**
+# Hi 👋, I'm Vikas Yadav
 
-- 📫 How to reach me **samrathyadav1103@gmail.com**
+### Backend Developer | Python Developer | API Developer | GenAI Enthusiast
 
-- 📄 Resume [https://drive.google.com/file/d/1wDbvi1z9mDL8M2qTQHskc783WiVG8TV-/view?usp=drive_link](https://drive.google.com/file/d/1pqG7bvzL_38PnK8Z2lbGnZ7Sffz9cezJ/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/vikasyad_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikasyad_11" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/samrathyadav1103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/samrathyadav1103" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/samrathyadav1103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/samrathyadav1103/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/vikasyad11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/vikasyad11/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vikas-11&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/vikas-11?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+</div>
 
+---
 
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikas-11&show_icons=true&theme=radical&locale=en&layout=compact" alt="vikas-11" /></p>
+I am a **Software Developer** focused on building scalable backend applications, REST APIs, database-driven systems, and AI-powered solutions.
 
+My primary development stack revolves around **Python, FastAPI, Django, PostgreSQL, Docker, REST APIs, and Generative AI**.
 
+I also have experience working with frontend and mobile technologies including **React.js, JavaScript, Flutter, Dart, Material UI, HTML, and CSS**.
 
+* 🐍 Strong interest in **Python Backend Development**
+* ⚡ Building REST APIs using **FastAPI & Django**
+* 🗄️ Working with **PostgreSQL, MySQL, SQLAlchemy & ORM concepts**
+* 🐳 Containerizing applications using **Docker**
+* 🤖 Exploring **Generative AI, LLMs, Prompt Engineering & Agentic AI**
+* 🔄 Experienced with **REST APIs, JSON processing, CRUD & API integrations**
+* 🧠 Interested in building **AI-powered backend applications**
+* 🛠️ Comfortable with **Git, GitHub, Postman & Swagger/OpenAPI**
+* 📚 Continuously improving my knowledge of **Backend Engineering, System Design & GenAI**
+
+---
+
+# 🚀 Tech Stack
+
+## 🐍 Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,php" />
+</p>
+
+![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST%20APIs-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Web%20Framework-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API%20Development-005571?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-Data%20Validation-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database%20Queries-336791?style=for-the-badge)
+
+---
+
+## 🤖 Generative AI & AI Engineering
+
+<p align="left">
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Developer-8A2BE2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-GenAI-412991?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Learning-6C63FF?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-Data%20Processing-000000?style=for-the-badge\&logo=json\&logoColor=white)
+
+</p>
+
+### Areas I work with
+
+`Prompt Engineering` • `LLMs` • `Structured Data Extraction` • `JSON Processing` • `AI-assisted Comparison` • `Prompt-based Validation` • `AI Backend Integration`
+
+---
+
+## 🐳 DevOps & Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+</p>
+
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-Development-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+
+---
+
+## 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap" />
+</p>
+
+![React](https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-UI%20Components-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+
+---
+
+## 📱 Mobile & Additional Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java" />
+</p>
+
+![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Programming-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+
+---
+
+# 🧠 Core Development Skills
+
+```text
+Backend Development     REST API Development      CRUD Operations
+Object-Oriented Programming (OOP)                 API Integration
+Database Design         JSON Processing            Authentication
+Exception Handling      Debugging                  Data Validation
+ORM                     Middleware                 CORS
+Docker                  Git / GitHub               Swagger / OpenAPI
+Prompt Engineering      Generative AI              LLM Fundamentals
+```
+
+---
+
+# 🛠️ What I Build
+
+### ⚡ Backend APIs
+
+Building clean and scalable APIs using:
+
+```text
+Python → FastAPI / Django → SQLAlchemy → PostgreSQL → Docker
+```
+
+### 🤖 AI-Powered Applications
+
+Working with:
+
+```text
+Python → Generative AI → Prompt Engineering → LLMs
+       → JSON Processing → Structured Data Extraction
+```
+
+### 🌐 Full-Stack Applications
+
+Experience with:
+
+```text
+React.js → REST APIs → Python / PHP → PostgreSQL / MySQL
+```
+
+### 📱 Mobile Applications
+
+Experience with:
+
+```text
+Flutter → Dart → REST APIs → PHP / Backend Services
+```
+
+---
+
+# 💼 Development Experience
+
+I have worked on software solutions involving:
+
+* Backend development using **Python**
+* REST API design and integration
+* Complex **JSON extraction and transformation**
+* Automated comparison and validation workflows
+* **Generative AI prompt engineering**
+* Structured information extraction
+* Database-driven applications
+* FastAPI application development
+* Django web application development
+* Dockerized backend applications
+* PostgreSQL database integration
+* React.js frontend development
+* API testing and debugging
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
+
+### 🥇 GH-300: GitHub Copilot
+
+![GitHub Copilot](https://img.shields.io/badge/GH--300-GitHub%20Copilot-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+**GitHub Copilot Certification**
+
+<br>
+
+### 🥇 Claude Certified Associate — Foundations
+
+![Claude](https://img.shields.io/badge/Claude-Certified%20Associate%20%E2%80%94%20Foundations-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
+
+**Claude Certified Associate — Foundations**
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+```text
+🏗️ Advanced Backend Architecture
+🐍 Advanced Python
+⚡ FastAPI
+🎯 Django
+🐳 Docker
+🐘 PostgreSQL
+☁️ Cloud Fundamentals
+🤖 Generative AI
+🧠 Large Language Models
+🔗 Agentic AI
+🏛️ System Design
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vikas-11&show_icons=true&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas-11&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=vikas-11&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vikas-11&column=6&margin-w=10&margin-h=10&no-frame=true" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:samrathyadav1103@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://vikas-11.github.io/Portfolio-Website/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/vikasyad_11/">
+  <img src="https://img.shields.io/badge/Instagram-vikasyad__11-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/samrathyadav1103">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/samrathyadav1103/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/vikasyad11/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Developer Mindset
+
+### `"Build. Break. Learn. Improve. Repeat."`
+
+<br>
+
+💻 **Focused on Backend Engineering**
+
+🐍 **Building with Python**
+
+⚡ **Creating APIs with FastAPI & Django**
+
+🐳 **Shipping applications with Docker**
+
+🤖 **Exploring the future with Generative AI**
+
+<br>
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%"/>
+
+</div>
