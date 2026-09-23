@@ -4,9 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vikas%20Yadav&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Django%20%7C%20GenAI&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
-# Hi 👋, I'm Vikas Yadav
+<div align="center">
 
-### Backend Developer | Python Developer | API Developer | GenAI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Vikas+Yadav" alt="Hi, I'm Vikas Yadav" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Python+Developer+%7C+API+Developer+%7C+GenAI+Enthusiast" alt="Backend Developer | Python Developer | API Developer | GenAI Enthusiast" />
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vikas-11&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
