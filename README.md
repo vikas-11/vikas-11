@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vikas%20Yadav&fontAlign=50&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Django%20%7C%20GenAI&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Vikas%20Yadav&fontAlign=50&fontAlignY=38&fontColor=FFFFFF&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20Django%20%7C%20GenAI&descAlign=50&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
